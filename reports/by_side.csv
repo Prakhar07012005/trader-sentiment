@@ -1,0 +1,13 @@
+regime,side_long,win_rate,mean_roi,trades
+Extreme Fear,0,,,0
+Extreme Fear,1,,,0
+Fear,0,,,0
+Fear,1,,,0
+Neutral,0,,,0
+Neutral,1,,,0
+Greed,0,,,0
+Greed,1,,,0
+Extreme Greed,0,,,0
+Extreme Greed,1,,,0
+,0,0.5412428129146395,0.025086239746826677,108528
+,1,0.2739055075173327,0.012549777063831195,102696

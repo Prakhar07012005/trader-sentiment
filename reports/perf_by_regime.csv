@@ -1,0 +1,7 @@
+regime,win_rate,mean_roi,median_roi,pnl_mean,pnl_median,pnl_std,trades,sharpe_proxy
+Extreme Fear,,,,,,,0,
+Fear,,,,,,,0,
+Neutral,,,,,,,0,
+Greed,,,,,,,0,
+Extreme Greed,,,,,,,0,
+,0.4112648183918494,0.01899107739930507,0.0,48.74900079269401,0.0,919.1648281980246,211224,0.05303619035147801
